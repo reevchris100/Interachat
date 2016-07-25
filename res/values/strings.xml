@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ 
+    <string name="app_name">IntraChat</string>
+    <string name="title">IntraChat</string>
+    <string name="author_name">By Reevan Chris Pinto</string>
+    <string name="author_url">UVCE</string>
+    <string name="enter_name">Enter your name</string>
+    <string name="btn_join">JOIN</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_img">Img</string>
+ 
+</resources>
